@@ -1,0 +1,46 @@
+/*-------------------------------------------
+*RESPONSIVE CSS FROOM HERE*
+---------------------------------------------*/
+
+/*EXTRA LARGE DESKTOP 1920px*/
+
+@media only screen and (min-width:1920px){
+    
+    
+}
+
+/*LARGE DESKTOP 1366px   extra large display: width 1919≥1200px   col-xl */
+
+@media only screen and (min-width:1200px)and (max-width:1919px){
+    
+    
+}
+
+/*medium DESKTOP 990px-1124px  width 1199≥992px col-lg*/
+
+@media only screen and (min-width:992px)and (max-width:1199px){
+    
+    
+}
+
+/*---------------- TABLET 768px  width:768-991 col-md -----------------------*/
+
+@media only screen and (min-width:768px)and (max-width:991px){
+    
+    
+}
+/*-----all mobile device   small device:{width:768≥576px} col-sm -------/
+
+@media only screen and (max-width: 768px) {
+    
+    
+}
+/*-----wide screen mobile device   extra small: (width <576px)---------*/
+
+@media only screen and (min-width:480px)(max-width:767px){
+    
+    
+}
+
+
+
